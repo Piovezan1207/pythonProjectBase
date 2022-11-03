@@ -5,5 +5,5 @@ python -m venv nomeVenv - cria um ambiente virtual para o projeto<br>
 pip freeze > requirements.txt - Cra o arquivo de requerimentos em cima do que está isntalado no pip<br>
 Para abrir a visualização do readme no vscode, use: ctrl+shift+v<br>
 <br><br>
- <img src="docs/images/python.png" width=300px >
+ <img src="Docs/Images/python.png" width=300px >
  </p>
